@@ -188,6 +188,16 @@ section {
     left: 47%;
     z-index: 100;
 }
+.col-2 h2{
+    font-family: w;
+    font-size: 75px;
+    text-transform: capitalize;
+    position: absolute;
+    top: 50px;
+    left: 47%;
+    z-index: 100;
+
+}
 
 .box1 .col-2 h1 {
     top: 0;
